@@ -1,0 +1,17 @@
+# Django #
+*.log
+*.pyc
+*.pyo
+db.sqlite3
+__pycache__/
+media/*
+
+myvenv
+/bin
+/lib
+pyvenv.cfg
+.DS_Store
+*~
+
+# Vim # 
+*.vim
